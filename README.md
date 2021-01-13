@@ -45,7 +45,7 @@ systemctl restart httpd
 certbot --apache
 ```
 2. 選擇要申請SSL的網站代號
-3. 1 為繼續使用過去的SSL，但是重新設定vhost；2 為建立新的SSL金鑰，並且重新設定vhost
+3. [1]為繼續使用過去的SSL，但是重新設定vhost； [2]為建立新的SSL金鑰，並且重新設定vhost
 
 ## certbot 常用指令
 
